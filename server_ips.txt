@@ -1,0 +1,18 @@
+# Terraform AWS Lab - Server IPs
+    
+## Load Balancer
+ELB DNS Name: terraform-aws-lab-dev-lb-2004580929.us-east-1.elb.amazonaws.com
+    
+## Proxy Servers
+Proxy Server 1:
+  Public IP: 3.218.207.225
+  Private IP: 10.0.0.216
+Proxy Server 2:
+  Public IP: 44.202.38.163
+  Private IP: 10.0.2.193
+    
+## Backend Servers
+Backend Server 1:
+  Private IP: 10.0.1.55
+Backend Server 2:
+  Private IP: 10.0.3.208
